@@ -14,6 +14,7 @@ Handles 404 errors for unmatched routes.
 
 reviewDAO.js:
 Provides functions to interact with the MongoDB database for reviews: addReview, getReview, updateReview, deleteReview, getReviewsByMovieId
+DAO - (Data Access Objects) encapsulates database interactions.
 
 reviews.controller.js:
 Defines controller methods for handling API requests: apiPostReview, apiGetReview, apiUpdateReview, apiDeleteReview, apiGetReviews
