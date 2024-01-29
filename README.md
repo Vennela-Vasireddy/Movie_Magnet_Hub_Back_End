@@ -1,4 +1,4 @@
-Back_End files for movie review website. For front-end files go to https://github.com/Vennela-Vasireddy/Movie_Review
+Back_End files for movie review website. For front-end files go to https://github.com/Vennela-Vasireddy/Movie_Magnet_Hub
 
 Backend Structure:
 
